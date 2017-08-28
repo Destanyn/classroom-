@@ -151,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1503672739890</updated>
       <workItem from="1503672741164" duration="3037000" />
-      <workItem from="1503933064061" duration="1303000" />
+      <workItem from="1503933064061" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="added more students">
       <created>1503933768825</created>
@@ -174,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503935263890</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added more students new wade">
+      <created>1503935281211</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503935281211</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4340000" />
+    <option name="totallyTimeSpent" value="4353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="49" width="1195" height="824" extended-state="0" />
@@ -210,7 +217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added more students" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more students" />
+    <MESSAGE value="added more students new wade" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more students new wade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
